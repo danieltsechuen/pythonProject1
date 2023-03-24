@@ -17,3 +17,5 @@ for i in range(1, 101):
 # 輸出數字串和總和
 print(output_string)
 print("總和：", total)
+# 寫加數器
+
